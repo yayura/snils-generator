@@ -1,7 +1,7 @@
 # snils-generator
-Генерирует текстовый файл с почти тысячей валидных снилсов, функция генерации взята отсюда https://github.com/ortex/snils-generator
+It generates а file with over9000 uniq snis nums https://github.com/ortex/snils-generator
 #
-надо ноду поставить, и запустить:
+Get the Node and run:
 ```
 node snils.js
 ```
